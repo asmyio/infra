@@ -1,6 +1,6 @@
 # Bash Playground
 
-Where we play and bash linux unto the ground
+Where we play and bash linux commands unto the terminal ground
 
 - move files from one to another
 - copy files from one to another
